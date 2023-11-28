@@ -1,0 +1,247 @@
+html{
+    overflow-x: hidden;
+}
+
+.about{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.about ul{
+    display:flex;
+    list-style: none;
+    gap: 50px;
+    margin-right: 50px;
+    margin-top: 35px;
+    
+}
+
+.about ul:hover{
+    color:aliceblue;
+    
+
+}
+
+.plan a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    
+
+   
+    
+}
+
+.margin-left{
+    width: 372px;
+    height: 219px;
+     margin-left: 150px; 
+    margin-top: 156px;
+}
+
+.margin-left h1{
+    color:#000000;
+    font-size: 40px;
+
+
+}
+
+.margin-left p{
+    font-size: 18px;
+    line-height: 24px;
+    
+}
+
+.main-right{
+    width: 710px;
+    height: 596px;
+    margin-top: 40px;
+    margin-left: 100px;
+    
+}
+
+.main-hero{
+    display: flex;
+    gap: 208px;
+}
+
+.about img{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+.hero{
+    background-image: url(/imags/Rectangle\ 678.png);
+    width: 1530px;
+    height: 705px;
+    /* margin-bottom: 50px; */
+}
+
+.hero-left{
+    /* margin-left: 185px; */
+}
+
+
+.buelt{
+    width: 1550px;
+    /* height: 740px; */
+    gap: 200px;
+    display: flex;
+    /* margin-top: 160px; */
+    background-image: url(/imags/Rectangle\ 116.png);
+    padding: 160px;
+    
+}
+
+.hero-img{
+    width: 202px;
+    height: 300px;
+   
+   
+}
+
+.hero-left p{
+    width: 626px;
+    height: 300px;
+    font-size: 20px;
+}
+
+.hero-right img{
+    width: 300px;
+    height: 304px;
+}
+
+.hero-left h2{
+    font-size: 38px;
+}
+
+.close-right p{
+    width: 580px;
+    height: 150px;
+    font-size: 18px;
+}
+
+.close-right h3{
+    font-size: 35px;
+}
+
+.close{
+    display: flex;
+   gap: 200px;
+    margin-top: 130px;
+    background-image:url(/imags/Group\ 3616.png);
+    justify-content: space-between;
+   
+
+    
+}
+
+.close-right{
+    margin-left: 143px;
+    color:#fff;
+    padding-top: 90px;
+    
+}
+
+.canada ul{
+    display: flex;
+   gap: 100px;
+   margin-top: 300px;
+  
+}
+
+.canada ul li{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    /* padding: 80px 50px; */
+    width: 400px;
+    height: 296px;
+    list-style: none;
+    background-color:#fff; 
+}
+
+.canada ul li img{
+    width: 120px;
+    height: 70px;
+}
+
+.canada h3{
+    font-size: 30px;
+    margin-left: 20px;
+    /* align-items:center; */
+    
+    
+}
+.canada ul li img{
+    margin-left: 200px;
+}
+
+.canada p{
+    margin-left: 20px;
+}
+
+.our{
+    text-align: center;
+    /* margin-top: 80px; */
+    font-size:  40px;
+    color: #fff;
+   
+}
+
+.canada{
+    background-image: url(/imags/Group\ 3620.png);
+    width: 1500px;
+    height: 685px;
+    
+}
+
+
+footer{
+    background-image:url(/imags/Group\ 3635.png);
+    width: 100%;
+    height: 160px;
+    margin-top: 50px;
+}
+
+.footer{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    padding: 50px 50px;
+}
+
+.plan ol{
+    width: 378px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    list-style: none;
+}
+
+.plan ol li a{
+    color:#333333d2;
+}
+
+.plan ol li a:hover{
+    color:#333333;
+
+}
+
+.instagram{
+    gap: 30px;
+    display: flex;
+}
+
+.instagram img{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
